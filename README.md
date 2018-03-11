@@ -1,0 +1,2 @@
+# BorkBot
+Basic trading bot
